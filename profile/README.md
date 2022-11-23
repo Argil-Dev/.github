@@ -1,12 +1,13 @@
-## Hi there 👋
+<center><img src="https://argildevs.github.io/img/icon.png" width="114.5" height="96">
+<center>
 
-<!--
+---
+### Hello, I'm Argil A UK based developer
 
-**Here are some ideas to get you started:**
+#### This org page is for larger projects, such as big extensions and themes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+----
+
+    
+ ##### I was gone for a while focusing on other things, but im back now, projects and other things coming SOON
+
